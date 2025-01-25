@@ -44,31 +44,31 @@
 
 ## 👨‍💻 Projects
 ### 1. Object Following Bot
-◦ Developed an object-following bot utilizing computer vision techniques for real-time tracking and navigation.
-◦ Technologies Leveraged : OpenCV, YOLO, Matplotlib, NumPy, Google Collaboratory, Pyserial.
-◦ Repository : [GitHub](https://github.com/AdityaKumbhar0925/ObjectFollowingBot)
-◦ Deploy Link : [Deploy](https://github.com/AdityaKumbhar0925/ObjectFollowingBot)
+- Developed an object-following bot utilizing computer vision techniques for real-time tracking and navigation.
+- Technologies Leveraged : OpenCV, YOLO, Matplotlib, NumPy, Google Collaboratory, Pyserial.
+- Repository : [GitHub](https://github.com/AdityaKumbhar0925/ObjectFollowingBot)
+- Deploy Link : [Deploy](https://github.com/AdityaKumbhar0925/ObjectFollowingBot)
 
 
 
 ### 2. LuxeVoyage
- ◦ Developed a dynamic hotel booking platform using MongoDB, Express, Node.js, MVC architecture, and
+ - Developed a dynamic hotel booking platform using MongoDB, Express, Node.js, MVC architecture, and
    MapTiler, integrating interactive map-based location services.
- ◦ Designed and implemented responsive front-end interfaces with HTML, CSS and Bootstrap, enabling seam
+ - Designed and implemented responsive front-end interfaces with HTML, CSS and Bootstrap, enabling seam
    less CRUD operations for user management, hotel listings, and bookings.
- ◦ Technologies Leveraged : MongoDB, Express.js, Node.js, HTML, CSS, Bootstrap, MapTiler API.
- ◦ Repository : [GitHub]([https://github.com/AdityaKumbhar0925/ObjectFollowingBot](https://github.com/AdityaKumbhar0925/LuxeVoyage))
- ◦ Deploy Link : [Deploy](luxevoyage-iw4d.onrender.com/listings)
+ - Technologies Leveraged : MongoDB, Express.js, Node.js, HTML, CSS, Bootstrap, MapTiler API.
+ - Repository : [GitHub]([https://github.com/AdityaKumbhar0925/ObjectFollowingBot](https://github.com/AdityaKumbhar0925/LuxeVoyage))
+ - Deploy Link : [Deploy](luxevoyage-iw4d.onrender.com/listings)
 
    
 
 ### 3. Analyser AI
-◦ Developed a social media analyzer using OpenAI’s 4o mini model, LangFlow, and DataStax to extract
+- Developed a social media analyzer using OpenAI’s 4o mini model, LangFlow, and DataStax to extract
   actionable insights from social media content.
-◦ Designed an intuitive frontend using ReactJS and CSS, enabling users to upload PDFs and visualize dynamic
+- Designed an intuitive frontend using ReactJS and CSS, enabling users to upload PDFs and visualize dynamic
   graphs and comprehensive insights.
-◦ Technologies Leveraged : Langflow, DataStax, React.js, CSS.
-◦ Repository : [GitHub](https://github.com/AdityaKumbhar0925/Social-Media-Analyzer)
+- Technologies Leveraged : Langflow, DataStax, React.js, CSS.
+- Repository : [GitHub](https://github.com/AdityaKumbhar0925/Social-Media-Analyzer)
 
 
 
