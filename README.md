@@ -47,7 +47,6 @@
 - Developed an object-following bot utilizing computer vision techniques for real-time tracking and navigation.
 - Technologies Leveraged : OpenCV, YOLO, Matplotlib, NumPy, Google Collaboratory, Pyserial.
 - Repository : [GitHub](https://github.com/AdityaKumbhar0925/ObjectFollowingBot)
-- Deploy Link : [Deploy](https://github.com/AdityaKumbhar0925/ObjectFollowingBot)
 
 
 
