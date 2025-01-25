@@ -57,7 +57,7 @@
  - Designed and implemented responsive front-end interfaces with HTML, CSS and Bootstrap, enabling seam
    less CRUD operations for user management, hotel listings, and bookings.
  - Technologies Leveraged : MongoDB, Express.js, Node.js, HTML, CSS, Bootstrap, MapTiler API.
- - Repository : [GitHub]([https://github.com/AdityaKumbhar0925/ObjectFollowingBot](https://github.com/AdityaKumbhar0925/LuxeVoyage))
+ - Repository : [GitHub](https://github.com/AdityaKumbhar0925/LuxeVoyage)
  - Deploy Link : [Deploy](luxevoyage-iw4d.onrender.com/listings)
 
    
