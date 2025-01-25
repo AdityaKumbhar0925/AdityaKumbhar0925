@@ -57,7 +57,7 @@
    less CRUD operations for user management, hotel listings, and bookings.
  - Technologies Leveraged : MongoDB, Express.js, Node.js, HTML, CSS, Bootstrap, MapTiler API.
  - Repository : [GitHub](https://github.com/AdityaKumbhar0925/LuxeVoyage)
- - Deploy Link : [Deploy](luxevoyage-iw4d.onrender.com/listings)
+ - Deploy Link : [Deploy](https://luxevoyage-iw4d.onrender.com/listings)
 
    
 
